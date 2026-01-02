@@ -20,10 +20,14 @@
 
 }
 .project_details__skills {
-    margin-bottom: 30px;
+    margin-bottom: 20px;
     font-size: 24px;
     font-weight: 700;
     line-height: 1.3;
+}
+
+.project_details__desc {
+    margin-top: 20px;
 }
 
 /* Button outline */

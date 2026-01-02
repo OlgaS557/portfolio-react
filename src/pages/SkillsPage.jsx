@@ -9,14 +9,13 @@ const SkillsPage = () => {
                 <ul className={style.content_list}>
                     <li className={style.content_list__item}>
                         <h2 className="title_2">Frontend</h2>
-                        <p>HTML5, CSS3, Bootstrap, MaterialUI, JavaScript, TypeScript,
-                           ReactJS, Redux, Redux Toolkit,        
+                        <p>HTML5, CSS3, SCSS, Bootstrap, MaterialUI, Tailwind, JavaScript, TypeScript,
+                           ReactJS, NextJS, Zustand, React-query, Redux Toolkit        
                         </p>
                     </li>
                     <li className={style.content_list__item}>
                         <h2 className="title_2">Backend</h2>
-                        <p>MySQL, MongoDB, Java, Spring Framework, MicroServices,
-                           Apache Kafka, NodeJS
+                        <p>MySQL, MongoDB, Java, NestJS, NodeJS Express
                         </p>
                     </li>
                 </ul>                                                      
