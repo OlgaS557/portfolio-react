@@ -1,4 +1,4 @@
-import React, { useEffect } from "react";
+import { useEffect } from "react";
 import classNames from "classnames";
 import {useLocalStorage} from '../../hook/useLocalStorage';
 import sun from '../../assets/icons/sun.svg';

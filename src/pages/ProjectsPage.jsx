@@ -1,4 +1,3 @@
-import React from "react";
 import style from '../css_modules/projectsPage.module.css';
 import {projects} from '../utils/data';
 import Project from "../components/Project";

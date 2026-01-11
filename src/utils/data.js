@@ -41,12 +41,12 @@ export const projects = [
         img: Ecommerce,
         imgBig: EcommerceBig,
         id: '02',
-        skills: ["React", "TypeScript", "ReduxToolkit", "CSS Modules", "MUI", "MongoDB"],
+        skills: ["React", "TypeScript", "ReduxToolkit", "React Router", "React Hook Form", "CSS Modules", "Material UI", "Netlify Functions", "mockapi.io (products data)"],
         demo: {
             url: "https://ecommerce-ptest.netlify.app/",
             platform: "netlify", // "netlify" | "vercel" | "github-pages"
-        }
-        
+        },
+        description: "React + TypeScript e-commerce app with authentication, filtering, cart logic, and serverless backend via Netlify Functions."
     },
     {
         title: 'Cheap trip',

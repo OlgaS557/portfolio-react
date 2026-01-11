@@ -1,4 +1,3 @@
-import React from "react";
 import style from '../css_modules/project.module.css';
 import { NavLink, useNavigate } from "react-router-dom";
 

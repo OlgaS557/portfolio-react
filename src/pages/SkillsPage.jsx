@@ -1,4 +1,3 @@
-import React from "react";
 import style from '../css_modules/contentList.module.css';
 
 const SkillsPage = () => {

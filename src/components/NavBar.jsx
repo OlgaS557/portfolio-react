@@ -1,4 +1,3 @@
-import React from "react";
 import { NavLink } from "react-router-dom";
 import { Link } from "react-scroll";
 import BtnDarkMode from '../components/buttonDarkMode/BtnDarkMode';
